@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hola
 
-<!--
-**MattyCampos/MattyCampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudiante de Ingeniería de Ejecución en Informática** | Chillán, Chile 🇨🇱
 
-Here are some ideas to get you started:
+Desarrollador Full Stack | Python, JavaScript, Java  | Base de Datos Estructuradas y No Estructuradas | Power BI y análisis de datos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías
+
+**Lenguajes**
+
+![Lenguajes](https://skillicons.dev/icons?i=java,cs,js,python,php,html,css)
+
+**Bases de datos**
+
+![BD](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb)
+
+**Herramientas**
+
+![Tools](https://skillicons.dev/icons?i=git,github,postman)
+
+**Análisis de datos y BI:** Power BI · Tableau · Pandas · Matplotlib · Seaborn · Scikit-Learn · Excel
+
+## Proyectos destacados
+
+- **Sistema de inventario para pyme de joyas:** app de escritorio en Python, Tkinter y SQLite.
+- **Plataforma de compra, venta y publicidad:** proyecto Full Stack con usuarios y base de datos.
+- **Sitio web para vidriería:** interfaz responsive en Front-End.
+
+## Contacto
+
+[LinkedIn](www.linkedin.com/in/matias-campos-767b3b406) · mattycamposa@gmail.com
