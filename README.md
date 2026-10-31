@@ -12,7 +12,7 @@ Desarrollador Full Stack | Python, JavaScript, Java  | Base de Datos Estructurad
 
 **Backend y Frameworks** 
 
-![Stack](https://skillicons.dev/icons?i=nodejs,express,angular,postgres,socketio)
+![Stack](https://skillicons.dev/icons?i=nodejs,express,angular)
 
 **Bases de datos**
 
