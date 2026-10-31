@@ -10,6 +10,9 @@ Desarrollador Full Stack | Python, JavaScript, Java  | Base de Datos Estructurad
 
 ![Lenguajes](https://skillicons.dev/icons?i=ts,js,python,java,cs,php,html,css)
 
+**Backend y Frameworks** 
+![Stack](https://skillicons.dev/icons?i=nodejs,express,angular,postgres,socketio)
+
 **Bases de datos**
 
 ![BD](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb)
