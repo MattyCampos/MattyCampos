@@ -8,7 +8,7 @@ Desarrollador Full Stack | Python, JavaScript, Java  | Base de Datos Estructurad
 
 **Lenguajes**
 
-![Lenguajes](https://skillicons.dev/icons?i=java,cs,js,python,php,html,css,angular)
+![Lenguajes](https://skillicons.dev/icons?i=ts,js,python,java,cs,php,html,css)
 
 **Bases de datos**
 
@@ -22,9 +22,10 @@ Desarrollador Full Stack | Python, JavaScript, Java  | Base de Datos Estructurad
 
 ## Proyectos destacados
 
-- **Sistema de inventario para pyme de joyas:** app de escritorio en Python, Tkinter y SQLite.
-- **Plataforma de compra, venta y publicidad:** proyecto Full Stack con usuarios y base de datos.
-- **Sitio web para vidriería:** interfaz responsive en Front-End.
+- **Sistema de inventario para pyme de joyas:** app de escritorio en Python, Tkinter y SQLite - proyecto académico.
+- **Plataforma de compra, venta y publicidad:** proyecto Full Stack con usuarios y base de datos - proyecto de salida intermedia.
+- **Sitio web para vidriería:** interfaz responsive en Front-End - proyecto académico.
+- **Sistema de turnos y tótem de autoatención:** para el Conservador de Bienes Raíces con Node.js, Angular, PostgreSQL y Socket.IO - proyecto salida de ingeniería.
 
 ## Contacto
 
