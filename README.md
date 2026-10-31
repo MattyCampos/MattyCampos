@@ -8,7 +8,7 @@ Desarrollador Full Stack | Python, JavaScript, Java  | Base de Datos Estructurad
 
 **Lenguajes**
 
-![Lenguajes](https://skillicons.dev/icons?i=java,cs,js,python,prolog,php,html,css,angular)
+![Lenguajes](https://skillicons.dev/icons?i=java,cs,js,python,php,html,css,angular)
 
 **Bases de datos**
 
