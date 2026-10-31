@@ -1,4 +1,4 @@
-# Hola
+# Soy Matías Campos
 
 **Estudiante de Ingeniería de Ejecución en Informática** | Chillán, Chile 🇨🇱
 
@@ -8,7 +8,7 @@ Desarrollador Full Stack | Python, JavaScript, Java  | Base de Datos Estructurad
 
 **Lenguajes**
 
-![Lenguajes](https://skillicons.dev/icons?i=java,cs,js,python,php,html,css)
+![Lenguajes](https://skillicons.dev/icons?i=java,cs,js,python,php,html,css,angular)
 
 **Bases de datos**
 
