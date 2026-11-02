@@ -1,36 +1,90 @@
-# Soy Matías Campos
 
-**Estudiante de Ingeniería de Ejecución en Informática** | Chillán, Chile 🇨🇱
+# 👨‍💻 Matías Campos
 
-Desarrollador Full Stack | Python, JavaScript, Java  | Base de Datos Estructuradas y No Estructuradas | Power BI y análisis de datos
+### Desarrollador Full Stack | Estudiante de Ingeniería de Ejecución en Informática
 
-## 🛠️ Tecnologías
+📍 Chillán, Chile 🇨🇱
 
-**Lenguajes**
+Estudiante de Ingeniería de Ejecución en Informática, interesado en el desarrollo de software, la construcción de aplicaciones Full Stack y el análisis de datos.
 
-![Lenguajes](https://skillicons.dev/icons?i=ts,js,python,java,cs,php,html,css)
+Cuento con conocimientos en desarrollo Frontend y Backend, gestión de bases de datos estructuradas y no estructuradas, y herramientas de Business Intelligence.
 
-**Backend y Frameworks** 
+---
 
-![Stack](https://skillicons.dev/icons?i=nodejs,express,angular)
 
-**Bases de datos**
+## 🛠️ Tecnologías y herramientas
 
-![BD](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb)
+### 💻 Lenguajes de programación
 
-**Herramientas**
+![Languages](https://skillicons.dev/icons?i=ts,js,python,java,cs,php,html,css)
+
+Java · C# · JavaScript · Python · PHP · HTML · CSS · Prolog · TypeScript
+
+### ⚙️ Backend y frameworks
+
+![Frameworks](https://skillicons.dev/icons?i=nodejs,express,angular)
+
+Node.js · Angular · Express
+
+### 🗄️ Bases de datos
+
+![Databases](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb)
+
+SQL Server · MySQL · SQLite · PostgreSQL · MongoDB
+
+### 🔧 Herramientas y control de versiones
 
 ![Tools](https://skillicons.dev/icons?i=git,github,postman)
 
-**Análisis de datos y BI:** Power BI · Tableau · Pandas · Matplotlib · Seaborn · Scikit-Learn · Excel
+Git · GitHub · Postman · XAMPP · FileZilla · Bizagi
 
-## Proyectos destacados
+### 📋 Metodologías y gestión
 
-- **Sistema de inventario para pyme de joyas:** app de escritorio en Python, Tkinter y SQLite - proyecto académico.
-- **Plataforma de compra, venta y publicidad:** proyecto Full Stack con usuarios y base de datos - proyecto de salida intermedia.
-- **Sitio web para vidriería:** interfaz responsive en Front-End - proyecto académico.
-- **Sistema de turnos y tótem de autoatención:** para el Conservador de Bienes Raíces con Node.js, Angular, PostgreSQL y Socket.IO - proyecto salida de ingeniería.
+Scrum (MeuScrum) · Trello
 
-## Contacto
+### 📊 Análisis de datos y Business Intelligence
 
-[LinkedIn](www.linkedin.com/in/matias-campos-767b3b406) · mattycamposa@gmail.com
+Power BI · Tableau · Excel · Pandas · Matplotlib · Seaborn · Scikit-Learn
+
+---
+
+## 🚀 Proyectos destacados
+
+### 1. Sistema de turnos y tótem de autoatención
+- Desarrollo de una solución Full Stack para el Conservador de Bienes Raíces.
+- Tecnologías: Node.js, Angular, PostgreSQL y Socket.IO.
+- Proyecto de salida de Ingeniería.
+
+### 2. Plataforma de compra, venta y publicidad
+- Aplicación Full Stack con gestión de usuarios y persistencia de datos.
+- Desarrollo de funcionalidades para publicación y administración de anuncios.
+- Proyecto de salida intermedia.
+
+### 3. Sistema de inventario para pyme de joyas
+- Aplicación de escritorio para la gestión y control de inventario.
+- Tecnologías: Python, Tkinter y SQLite.
+- Proyecto académico.
+
+### 4. Sitio web para vidriería
+- Desarrollo de interfaz web responsive.
+- Enfoque en diseño y desarrollo Frontend.
+- Proyecto académico.
+
+---
+
+## 📬 Contacto
+
+- 💼 **LinkedIn:** [Matías Campos](https://www.linkedin.com/in/matias-campos-767b3b406)
+- 📧 **Correo:** [mattycamposa@gmail.com](mailto:mattycamposa@gmail.com)
+
+---
+
+⭐ Siempre interesado en aprender nuevas tecnologías, desarrollar soluciones y participar en proyectos de software.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
