@@ -11,26 +11,25 @@ Cuento con conocimientos en desarrollo Frontend y Backend, gestión de bases de 
 
 ---
 
-
 ## 🛠️ Tecnologías y herramientas
 
 ### 💻 Lenguajes de programación
 
 ![Languages](https://skillicons.dev/icons?i=ts,js,python,java,cs,php,html,css)
 
-Java · C# · JavaScript · Python · PHP · HTML · CSS · Prolog · TypeScript
+TypeScript · JavaScript · Python · Java · C# · PHP · HTML · CSS · Prolog 
 
 ### ⚙️ Backend y frameworks
 
 ![Frameworks](https://skillicons.dev/icons?i=nodejs,express,angular)
 
-Node.js · Angular · Express
+Node.js · Express · Angular 
 
 ### 🗄️ Bases de datos
 
 ![Databases](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb)
 
-SQL Server · MySQL · SQLite · PostgreSQL · MongoDB
+MySQL · PostgreSQL · SQLite · MongoDB · SQL Server
 
 ### 🔧 Herramientas y control de versiones
 
