@@ -78,12 +78,8 @@ Power BI · Tableau · Excel · Pandas · Matplotlib · Seaborn · Scikit-Learn
 
 ---
 
-⭐ Siempre interesado en aprender nuevas tecnologías, desarrollar soluciones y participar en proyectos de software.
-
----
-
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MattyCampos&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MattyCampos&layout=compact&theme=tokyonight)
