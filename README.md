@@ -50,12 +50,12 @@ Power BI · Tableau · Excel · Pandas · Matplotlib · Seaborn · Scikit-Learn
 ## 🚀 Proyectos destacados
 
 ### 1. Sistema de turnos y tótem de autoatención
-- Desarrollo de una solución Full Stack para el Conservador de Bienes Raíces.
+- Desarrollo de una solución Full Stack de gestion de fila y orden de turnos para el Conservador de Bienes Raíces.
 - Tecnologías: Node.js, Angular, PostgreSQL y Socket.IO.
 - Proyecto de salida de Ingeniería.
 
 ### 2. Plataforma de compra, venta y publicidad
-- Aplicación Full Stack con gestión de usuarios y persistencia de datos.
+- Aplicación Full Stack con gestión de usuarios para compra y venta de publicidad.
 - Desarrollo de funcionalidades para publicación y administración de anuncios.
 - Proyecto de salida intermedia.
 
