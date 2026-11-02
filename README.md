@@ -75,11 +75,3 @@ Power BI · Tableau · Excel · Pandas · Matplotlib · Seaborn · Scikit-Learn
 
 - 💼 **LinkedIn:** [Matías Campos](https://www.linkedin.com/in/matias-campos-767b3b406)
 - 📧 **Correo:** [mattycamposa@gmail.com](mailto:mattycamposa@gmail.com)
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MattyCampos&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MattyCampos&layout=compact&theme=tokyonight)
